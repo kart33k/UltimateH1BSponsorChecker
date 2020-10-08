@@ -1,6 +1,6 @@
 # UltimateH1BSponsorChecker
 
-## The second largest heading
+## Description
 This extension is designed for helping people who want to find companies who sponsored H1b in the past couple of years when applying on job sites.
 
 Please open an issue to report new issue.
